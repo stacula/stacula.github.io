@@ -3,9 +3,11 @@ function writeHeadTags()  {
     document.write("<title>Proust Outline and Annotations</title>");
     document.write("<meta http-equiv='content-type' content='text/html;charset=utf-8'>");
     document.write("<meta http-equiv='Content-Style-Type' content='text/css'>");
-    document.write("<link rel='stylesheet' type='text/css' href='global.css' />");
+    document.write("<link rel='stylesheet' type='text/css' href='/global.css' />");
 
 }
+
+
 
 function writeHeader() {
 
