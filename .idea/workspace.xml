@@ -39,11 +39,11 @@
       <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="69" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="1" />
               <folding>
-                <marker date="1516593682186" expanded="true" signature="450:456" ph=" " />
-                <marker date="1516593682186" expanded="true" signature="456:462" ph=" " />
+                <marker date="1516594005674" expanded="true" signature="450:456" ph=" " />
+                <marker date="1516594005674" expanded="true" signature="456:462" ph=" " />
               </folding>
             </state>
           </provider>
@@ -67,6 +67,14 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>href='</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>href='/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -172,12 +180,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512451663559</updated>
       <workItem from="1512451665911" duration="10225000" />
-      <workItem from="1516592129217" duration="1545000" />
+      <workItem from="1516592129217" duration="1878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11770000" />
+    <option name="totallyTimeSpent" value="12103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="748" extended-state="6" />
@@ -225,8 +233,8 @@
         <state relative-caret-position="484">
           <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="45" />
           <folding>
-            <marker date="1516593682186" expanded="true" signature="450:456" ph=" " />
-            <marker date="1516593682186" expanded="true" signature="456:462" ph=" " />
+            <marker date="1516594005674" expanded="true" signature="450:456" ph=" " />
+            <marker date="1516594005674" expanded="true" signature="456:462" ph=" " />
           </folding>
         </state>
       </provider>
@@ -267,11 +275,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="69" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="1" />
           <folding>
-            <marker date="1516593682186" expanded="true" signature="450:456" ph=" " />
-            <marker date="1516593682186" expanded="true" signature="456:462" ph=" " />
+            <marker date="1516594005674" expanded="true" signature="450:456" ph=" " />
+            <marker date="1516594005674" expanded="true" signature="456:462" ph=" " />
           </folding>
         </state>
       </provider>
