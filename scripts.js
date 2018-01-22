@@ -11,7 +11,7 @@ function writeHeadTags()  {
 
 function writeHeader() {
 
-    document.write("<div id='page-header'><img src='proust.jpg'>&nbsp;&nbsp;<span id='page-title'>Proust Outline and Annotations</span></div>");
+    document.write("<div id='page-header'><img src='/proust.jpg'>&nbsp;&nbsp;<span id='page-title'>Proust Outline and Annotations</span></div>");
     document.write("<div id='cssmenu'>");
     document.write("<ul>");
     document.write("<li><a href='index.html'>Home</a></li>");

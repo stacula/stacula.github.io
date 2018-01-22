@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="810a3bf8-2e1a-42e8-93a1-4d5d17cc4ec0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auxiliary/csb-masturbation-scene.html" afterPath="$PROJECT_DIR$/auxiliary/csb-masturbation-scene.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts.js" afterPath="$PROJECT_DIR$/scripts.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="csb-masturbation-scene.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="csb-masturbation-scene.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auxiliary/csb-masturbation-scene.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
@@ -38,14 +36,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="286">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
-                <marker date="1516593440387" expanded="true" signature="449:455" ph=" " />
-                <marker date="1516593440387" expanded="true" signature="455:461" ph=" " />
+                <marker date="1516593682186" expanded="true" signature="450:456" ph=" " />
+                <marker date="1516593682186" expanded="true" signature="456:462" ph=" " />
               </folding>
             </state>
           </provider>
@@ -78,8 +76,8 @@
       <list>
         <option value="$PROJECT_DIR$/global.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/scripts.js" />
         <option value="$PROJECT_DIR$/auxiliary/csb-masturbation-scene.html" />
+        <option value="$PROJECT_DIR$/scripts.js" />
       </list>
     </option>
   </component>
@@ -174,12 +172,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512451663559</updated>
       <workItem from="1512451665911" duration="10225000" />
-      <workItem from="1516592129217" duration="1299000" />
+      <workItem from="1516592129217" duration="1545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11524000" />
+    <option name="totallyTimeSpent" value="11770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="748" extended-state="6" />
@@ -227,8 +225,8 @@
         <state relative-caret-position="484">
           <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="45" />
           <folding>
-            <marker date="1516593440387" expanded="true" signature="449:455" ph=" " />
-            <marker date="1516593440387" expanded="true" signature="455:461" ph=" " />
+            <marker date="1516593682186" expanded="true" signature="450:456" ph=" " />
+            <marker date="1516593682186" expanded="true" signature="456:462" ph=" " />
           </folding>
         </state>
       </provider>
@@ -259,22 +257,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1516593440387" expanded="true" signature="449:455" ph=" " />
-            <marker date="1516593440387" expanded="true" signature="455:461" ph=" " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auxiliary/csb-masturbation-scene.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1516593682186" expanded="true" signature="450:456" ph=" " />
+            <marker date="1516593682186" expanded="true" signature="456:462" ph=" " />
+          </folding>
         </state>
       </provider>
     </entry>
