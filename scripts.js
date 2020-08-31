@@ -83,6 +83,7 @@ function writeHeader() {
     document.write("</li>");
     document.write("</ul>");
     document.write("</li>");
+    document.write("<li><a href='/inebriated-past/index.html'>Stuff To Share</a></li>");
     document.write("</ul>");
     document.write("</div>");
 
